@@ -1,3 +1,3 @@
 secret2.txt filter=git-crypt diff=git-crypt
 secret.txt filter=git-crypt diff=git-crypt
-secret-folder filter=git-crypt diff=git-crypt
+production.json filter=git-crypt diff=git-crypt
